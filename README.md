@@ -1,1 +1,1 @@
-# GTM-eDX-Template
+#eDX-base-tag-Template
