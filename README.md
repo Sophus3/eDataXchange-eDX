@@ -1,1 +1,1 @@
-# GTM-eDX-Templates
+# GTM-eDX-Template
