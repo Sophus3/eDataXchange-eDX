@@ -18,7 +18,7 @@ contact: "it.clienttechnology@sophus3.com"
 license: "Apache License, Version 2.0"
 repository: "https://github.com/Sophus3/eDataXchange-eDX" # Added repository link
 versions:
-  - sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  - sha: cabfb0bf884142bf9fc8df656135eb488089792386b704831593ee603e00d22a
     changeNotes: "Initial release of the GTM Base Tag Template."
     releaseDate: "2025-01-14" # Updated release date for the first version
     templateName: "eDataXchange(eDX) Base Tag" # Added name for clarity
