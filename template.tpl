@@ -11,7 +11,7 @@ ___INFO___
 {
   "type": "TAG",
   "id": "cvt_temp_public_id",
-  "version": 1.0.0,
+  "version": 1,
   "securityGroups": [],
   "displayName": "eDataXchange (eDX) Base Tag",
   "categories": ["ANALYTICS"],
