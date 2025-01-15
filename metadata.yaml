@@ -1,0 +1,25 @@
+# Copyright 2025 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     https://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+homepage: "https://www.sophus3.com"
+documentation: "https://sophus3.com/edx-gtm-implementation-guide/"
+contact: "it.clienttechnology@sophus3.com"
+license: "Apache License, Version 2.0"
+repository: "https://github.com/Sophus3/eDataXchange-eDX" # Added repository link
+versions:
+  - sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    changeNotes: "Initial release of the GTM Base Tag Template."
+    releaseDate: "2025-01-14" # Updated release date for the first version
+    templateName: "eDataXchange(eDX) Base Tag" # Added name for clarity
+    description: "The first version of the GTM Base Tag Template, designed to streamline tag deployment and enhance data accuracy within Google Tag Manager."
